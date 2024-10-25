@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jianhaoc
-- 👀 I’m interested in cryo EM, 3D reconstruction and bio-sequence analysis.
-- 🌱 I’m currently a postdoc.
+- 👀 My research focus on cryo-EM.
 
 <!---
 jianhaoc/jianhaoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
